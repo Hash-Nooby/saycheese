@@ -14,8 +14,10 @@ Take webcam shots from target just sending a malicious link
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/Hash-Nooby/saycheese
-cd saycheese
-bash saycheese.sh
+# apt install ssh / Termux: apt install openssh
+# apt install php
+# git clone https://github.com/Hash-Nooby/saycheese
+# cd saycheese
+# bash saycheese.sh
 ```
 
